@@ -4,7 +4,7 @@
 This code exploits improper input sanitization in SMTP headers to achieve Remote Code Execution (RCE) by injecting malicious commands into crafted email fields.
 
 
-![[SMTP-RCE.png]]
+![alt text](https://github.com/Hussien-Alzaghateet/SMTP-RCE/blob/main/SMTP-RCE.png)
 
 ### Requirements
 ---
