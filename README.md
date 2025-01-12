@@ -15,7 +15,7 @@ sudo python3 -m pip install pwntools
 ### Installation 
 --------
 ```
-git clone https://github.com/Hussien-Alzaghateet/SMTP-RCE
+git clone https://github.com/Hussien-Alzaghateet/SMTP-RCE.git
 ```
 
 
